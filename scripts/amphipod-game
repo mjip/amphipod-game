@@ -1,0 +1,4 @@
+#!/bin/env python3
+# pylint: disable=missing-docstring
+from amphipod_game import amphipod_game
+amphipod_game.main()
